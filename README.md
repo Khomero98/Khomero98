@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.behance.net/juandapulido5](https://www.behance.net/juandapulido5)
 
-- 💬 Preguntane sobre **Maya, Suite Adobe, Html5, Css3, Js,**
+- 💬 Preguntame sobre **Maya, Suite Adobe, Html5, Css3, Js,**
 
 - 📫 Como contactarme **pulido.juandavid@gmail.com**
 

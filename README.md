@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Juan David Pulido Beltran</h1>
-<h3 align="center">Un ingeniero multimedia con enfasis en Front-end, produccion multimedia y videojuegos de Colombia</h3>
+<h3 align="center">Un ingeniero multimedia que le gusta el Front-end, la produccion multimedia y los videojuegos. Soy de Colombia</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React.js, Blender**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.behance.net/juandapulido5](https://www.behance.net/juandapulido5)
 
-- 💬 PrEguntame sobre **Maya, Suite Adobe, Html5, Css3, Js,**
+- 💬 Preguntane sobre **Maya, Suite Adobe, Html5, Css3, Js,**
 
 - 📫 Como contactarme **pulido.juandavid@gmail.com**
 
